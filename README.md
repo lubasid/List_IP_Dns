@@ -8,7 +8,7 @@ Contents of Directory:
 	makefile
 	Readme.txt
 
-HW5 : ListIPDNS
+ListIPDNS
 
 	This program accepts cmd line arguments for the subnet and network address.
 	It then determines the number of hosts possible for the given subnet and prints their ip address and DNS name. 
